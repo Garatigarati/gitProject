@@ -1,0 +1,15 @@
+/text1.txt
+/text2.txt
+
+/index.html
+/style.css
+
+# this a comment
+# auto generated files
+
+# auto-gen-files/a.txt
+# auto-gen-files/b.txt
+# auto-gen-files/c.txt
+
+# if there are many files to ignore use *
+auto-gen-files/*.txt
